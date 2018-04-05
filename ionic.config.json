@@ -1,0 +1,8 @@
+{
+  "name": "hyira",
+  "app_id": "be1188cd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
